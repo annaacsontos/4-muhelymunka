@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+}
+
+header {
+  display: flex;
+  background-color: #222;
+  word-spacing: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
+  color: white;
+  padding: 20px;
+  margin: 0 100px;
+  justify-content: space-evenly;
+}
+
+
+.cropped {
+  object-fit: cover;
+  position: relative;
+  flex-grow:2;
+}
+
+.head {
+    position: absolute;
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+    color: #222;
+    line-height: 11px;
+}
+
+#elso {
+  top: 345px;
+  left: 150px;
+}
+
+#masodik {
+  top: 365px;
+  left: 150px;
+  font-size: 70px;
+}
+
+#harmadik {
+  top: 435px;
+  left: 150px;
+  font-size: 70px;
+}
+
+.elsosor {
+  display: flex;
+  margin: 0 100px; 
+}
+
+.contenta {
+  margin: 50px 0;
+  padding: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  flex-grow: 3;
+}
+
+.masodiksor {
+  display: flex;
+  margin: 0 100px;
+}
+
+
+blockquote {
+  background-color: #404040;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+  position: relative;
+  flex-grow: 2.5;
+  height: 400px;
+  width: 300px;
+  margin-left: 0;
+  justify-content: center;
+}
+
+#elsoq {
+  padding: 140px 45px 0 45px;
+}
+
+#masodikq {
+  padding: 120px 20px 0 20px;
+}
+
+#harmadikq {
+  padding: 45px 35px 0 35px;
+  font-size: 43px;
+}
+
+blockquote::before {
+  content: '“';
+  font-size: 150px;
+  position: absolute;
+  margin: 0;
+  bottom: 300px;
+  left: 0;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.italic {
+  font-family: "Merriweather";
+  font-size: 15px;
+  font-style: italic;
+  margin: 0;
+}
+
+.contentb {
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: 1.5; 
+  flex-grow: 2.5;
+  margin-right: 100px;
+}

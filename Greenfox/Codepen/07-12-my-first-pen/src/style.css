@@ -1,0 +1,47 @@
+div {
+  background: mistyrose;
+  padding: 30px;
+}
+
+h2 {
+  color: mediumorchid;
+  background: lightpink;
+  text-align: center;
+  margin: 5px;
+  padding: 40px 20px 40px 20px;
+  border: 2px inset white; 
+  width: 370px;
+	height: 40px;
+}
+
+h3 {
+    color: #bc1288;
+  margin-left: 15px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Montserrat";
+  }
+
+p, ol {
+  margin: 0;
+}
+
+h5{
+  background: lightskyblue;
+  margin: 20px 40px 50px 150px;
+}
+
+#NevInputMezo {
+	background: pink;
+}
+#JelszoInputMezo {
+	background: pink;
+}
+#EmailInputMezo {
+	background: pink;
+}
+
+.randomnev {
+  background: cornsilk;
+  }

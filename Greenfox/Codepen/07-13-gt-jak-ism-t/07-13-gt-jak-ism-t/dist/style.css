@@ -1,0 +1,62 @@
+main {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  width: 250px;
+  height: 360px;
+  font-family: "Baloo Thambi 2";
+  font-size: 24px;
+}
+
+.elso {
+  background: #E67676;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+  border-top-width: 6px;
+  border-left-width: 6px;
+  border-right-width: 6px;
+  border-bottom-width: 0px;
+  border-style: solid;
+  border-color: #4285f4;
+}
+.masodik {
+  background: #E67676;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+  border-bottom-width: 6px;
+  border-left-width: 6px;
+  border-right-width: 6px;
+  border-top-width: 0px;
+  border-style: solid;
+  border-color: #4285f4;
+  margin-bottom: 10px;
+}
+.harmadik {
+  background:#A9E6E6;
+  height: 50px;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+  border-top-width: 6px;
+  border-left-width: 6px;
+  border-right-width: 6px;
+  border-bottom-width: 0px;
+  border-style: solid;
+  border-color: #4285f4;
+}
+.negyedik {
+  background:#A9E6E6;
+  height: 50px;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+  border-bottom-width: 6px;
+  border-left-width: 6px;
+  border-right-width: 6px;
+  border-top-width: 0px;
+  border-style: solid;
+  border-color: #4285f4;
+  margin-bottom: 10px;
+}

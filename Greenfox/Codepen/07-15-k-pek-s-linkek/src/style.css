@@ -1,0 +1,24 @@
+div{
+  display: flex;
+}
+
+img {
+  width: 150px;
+  margin: 5px;
+}
+
+h1 {
+  font-family: "Sen";
+  font-size: 30px;
+}
+
+a {
+  font-family: "Sen";
+  font-size: 15px;
+  display: block;
+}
+
+section {
+  width: 200px;
+  text-align: center;
+}

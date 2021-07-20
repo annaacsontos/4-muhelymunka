@@ -1,0 +1,19 @@
+main {
+  width: 410px;
+  
+}
+h1 {
+  color: coral;
+  font-size: 35px;
+  font-family: serif;
+}
+h2 {
+  color: darkorchid;
+}
+.pink {
+  color: fuchsia;
+  text-decoration: underline;
+}
+.under {
+  text-decoration: underline;
+}

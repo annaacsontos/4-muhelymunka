@@ -1,0 +1,21 @@
+div {
+    display: block;
+    width: 260px;
+    align-items: center;
+    border-top: 2px;
+    border-left: 2px;
+    border-right: 2px;
+    border-bottom: 0;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+div:hover {
+    background-color:orangered;
+  }
+
+#utso {
+    border-bottom: 2px solid black;
+}
+

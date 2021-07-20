@@ -1,0 +1,36 @@
+a {
+    display: block;
+
+}
+
+h1 {
+    color: pink;
+}
+
+.asteroid.big {
+    color: blue;
+}
+p {
+    background-color: yellow;
+    width: 260px;
+}
+
+.asteroid.b329.big {
+    color: blue;
+}
+
+#b325 {
+    border: solid 1px green;
+    width: 260px;
+}
+
+.asteroid.b326 {
+    border: solid 1px green;
+    width: 260px;
+
+}
+
+div {
+    font-weight: bold;
+}
+

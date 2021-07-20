@@ -1,0 +1,44 @@
+.header {
+  background-color: aqua;
+  width: 100%;
+  height: 200px;
+}
+
+.container {
+  height: 900px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.left {
+  background: orange;
+  width: 20%;
+}
+
+
+.main {
+  background: red;
+  width: 50%;
+  position: relative;
+}
+
+#blackbox {
+  background: black;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.right {
+  background: purple;
+  width: 20%;
+}
+
+.footer {
+  background: blue;
+  height: 200px;
+  width: 100%;
+}

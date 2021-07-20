@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  background-color: purple;
+  height: 50px;
+  align-items: center;
+}
+
+
+button {
+  background: cyan;
+  height: 30px;
+  border: none;
+  width: 100px;
+  margin: 0 10px;
+}
+
+.dupla {
+  width: 170px;
+}
+
+.container {
+  display: flex;
+}
+
+main {
+  background: yellow;
+  height: 500px;
+  flex-grow: 4;
+}
+
+aside {
+  background: lime;
+  height: 500px;
+  flex-grow: 1;
+}

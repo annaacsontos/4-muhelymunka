@@ -1,0 +1,12 @@
+main {
+  display: block;
+  width: 400px;
+}
+
+label {
+  display: block;
+  }
+
+#gomb {
+  margin-top: 5px;
+}

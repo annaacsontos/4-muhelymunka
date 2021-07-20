@@ -1,0 +1,38 @@
+main {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  width: 250px;
+  height: 360px;
+  border: 6px solid #4285f4;
+  font-family: "Baloo Thambi 2";
+  font-size: 24px;
+}
+.elso {
+  background: #E67676;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+}
+.masodik {
+  background: #F2F062;
+  height: 50px;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+}
+.harmadik {
+  background:#A9E6E6;
+  height: 50px;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+}
+
+.negyedik {
+  background: #7692E4;
+  height: 50px;
+  margin: 0px;
+  padding: 25px;
+  height: 40px;
+}
